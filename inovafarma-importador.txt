@@ -2,12 +2,12 @@
 
 [Update]
 Name = INOVAFARMA Importador
-ProductVersion = 1.38.5
-URL = https://github.com/precisaosistemas/inovafarma-importador/releases/download/v1.38.5/inovafarma-importador-1.38.5.exe
-Size = 114596296
-MD5 = f55e8b99752eb60ccfd2638a784f0e4c
+ProductVersion = 1.39.0
+URL = https://github.com/precisaosistemas/inovafarma-importador/releases/download/v1.39.0/inovafarma-importador-1.39.0.exe
+Size = 115492520
+MD5 = 6a0bb8dba986250d6a1207b951c4606f
 CommandLine = /exenoui /qn
-ServerFileName = inovafarma-importador-1.38.5.exe
+ServerFileName = inovafarma-importador-1.39.0.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\INOVAFARMA Importador\Version
-Version = 1.38.5
+Version = 1.39.0
